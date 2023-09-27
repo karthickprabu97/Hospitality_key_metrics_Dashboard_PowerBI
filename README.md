@@ -1,1 +1,1 @@
-# Hospitality_key_metrics_Dashboard_PowerBI
+##### Key metrics dashboard for Atliq Hotels (Hotel chain in Hospitality domain).This dashboard was created using PowerBI.
